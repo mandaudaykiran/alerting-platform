@@ -42,4 +42,4 @@ cd alerting-platform
 python demo.py
 
 # Or use the interactive interface
-python simple_interface.py
+python simple_interface.py"# Test trigger" 
